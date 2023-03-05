@@ -1,0 +1,7 @@
+https://www.hackster.io/bruno_opaiva/door-lock-system-with-arduino-and-rfid-module-25f092 .. search through this
+https://www.hackster.io/bruno_opaiva/door-lock-system-with-arduino-and-rfid-module-25f092 // this uses stepper motor// for introdction to robotics
+
+
+https://www.kaggle.com/code/khageshorgiri/car-price-prediction-linearregression
+
+https://www.kaggle.com/code/neisha/heart-disease-prediction-using-logistic-regression/notebook 
